@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Research
+  filter: "research"
+- name: Open Source
+  filter: "open-source"
+- name: Tools
+  filter: "tools"
+
+# your projects
+projects:
+- name: Reasoning Core
+  role: Developer
+  timeline: "2024 - Present"
+  repo: https://github.com/sileod/reasoning_core
+  summary: "A Python library for generating synthetic reasoning benchmarks for evaluating language models."
+  tags: ["research", "open-source", "tools"]
+
+- name: Research Project 2
+  role: Researcher
+  timeline: "2023 - 2024"
+  url: "https://www.example.com"
+  summary: "Placeholder description for a research project. Replace with your actual project details."
+  tags: ["research"]
+
+- name: Open Source Tool
+  role: Developer
+  timeline: "2023 - Present"
+  repo: https://github.com/vlcmb
+  summary: "Placeholder description for an open-source tool. Replace with your actual project details."
+  tags: ["open-source", "tools"]

@@ -1,0 +1,33 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: INRIA
+    url: "https://www.inria.fr"
+    location: France
+  positions:
+  - designation: Engineer of Research
+    start: Feb 2025
+    end: Present
+    responsibilities:
+    - "Conducted research on Natural Language Processing and Machine Learning."
+    - "Published papers in top-tier conferences and journals."
+    - "Developed open-source research tools."
+
+- company:
+    name: Education Nationale
+    url: "https://www.education.gouv.fr"
+    location: France
+  positions:
+  - designation: Physics and Mathematics Teacher
+    start: Jan 2024
+    end: July 2024
+    responsibilities:
+    - "Taught Physics and Mathematics to high school students."
+    - "Prepared students for the French Baccalauréat."

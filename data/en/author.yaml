@@ -1,0 +1,17 @@
+# some information about you
+name: "Valentin"
+nickname: "Valentin"
+greeting: "Hi, I am"
+image: "images/author/valentin.png"
+# contact information (used in the footer)
+contactInfo:
+  email: "valentin.lacombe@etik.com"
+  github: vlcmb
+  linkedin: https://www.linkedin.com/in/valentin-lacombe-047b063a4/
+
+# summary about you
+summary:
+  - I am a Researcher
+  - I work on NLP and Machine Learning
+  - I build open-source tools
+  - I am passionate about science, sport and good food
